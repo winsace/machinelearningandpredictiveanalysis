@@ -1,0 +1,3 @@
+Model,Accuracy,Precision (Weighted Avg),Recall (Weighted Avg),F1-Score (Weighted Avg)
+Multinomial Logistic Regression,0.143,0.06135837000548949,0.143,0.052300623416232525
+Random Forest Classifier,0.8015,0.8013694098458836,0.8015,0.8012656687234542
